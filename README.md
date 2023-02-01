@@ -1,3 +1,41 @@
+# E Commerce Site using the React
+
+## Developed by [Pradeep Kumar Yadav](https://linkedin.com/in/pradeep-yadav-1313a71aa/)
+
+Used Package
+```
+"jquery": "^3.6.3",
+"popper.js": "^1.16.1",
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"react-router-dom": "^6.8.0",
+"react-scripts": "5.0.1",
+"web-vitals": "^2.1.4"
+```
+
+- I used reactstrap for page designing.
+- react-router-dom for page routing purpose.
+- I divided the whole application in three main parts.
+```
+Header -> For defining the dropdown menu.
+Footer -> For defining all the useful links, copyright, and website public links.
+Home -> Where I showcase all the product with proper designing.
+```
+
+I am also attaching my application images below.
+
+![Header](images/One.png) <br>
+![DropDown](images/Two.png)<br>
+![Cart](images/Three.png)<br>
+![Body](images/four.png)<br>
+![Offers](images/Five.png)<br>
+![Footer](images/Six.png)<br>
+
+
+Thank You
+Pradeep Kumar Yadav
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
